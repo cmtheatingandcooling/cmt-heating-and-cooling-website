@@ -1,0 +1,15 @@
+CMT Heating & Cooling — Fresh Design Package
+
+UPLOAD:
+1. Extract this ZIP.
+2. On the GitHub upload screen, select ALL files inside the extracted folder.
+3. Wait until GitHub lists all files.
+4. In Commit changes, enter: Fresh light CMT redesign
+5. Click Commit changes.
+6. Vercel will deploy automatically because the repository is already connected.
+
+NOTE:
+The package intentionally keeps the CMT identity and red/blue brand direction, but uses a lighter,
+fresher visual system. The header currently uses a clean CMT brand mark in CSS so the site works
+immediately without a missing image asset. Your original logo image can be inserted afterward
+without changing the rest of the design.
