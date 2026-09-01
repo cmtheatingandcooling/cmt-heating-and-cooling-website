@@ -1,0 +1,19 @@
+CMT HEATING & COOLING — FINAL COMPLETE PACKAGE
+
+This version fixes the temporary logo and missing media:
+• Uses the actual CMT branding recovered from the company-van photo.
+• Restores real CMT project/company photos.
+• Adds AC, Rotobrush, ductwork, insulation, new construction, air-handler and company-van imagery.
+• Adds About the Owner and Recent Work sections.
+• Adds a Project Highlights MP4 made from the real photos.
+• Preserves phone, license, financing, SEO city pages, sitemap and robots.txt.
+• Keeps the light blue/white professional layout and red/navy CMT accents.
+• Keeps compact mobile Call/Text buttons.
+
+UPLOAD:
+1. Extract this ZIP.
+2. GitHub > cmt-heating-and-cooling-website > Add file > Upload files.
+3. Drag ALL extracted files AND the assets + media folders.
+4. Commit message: Complete site - real CMT logo photos and projects
+5. Click Commit changes.
+6. Vercel deploys automatically from main.
