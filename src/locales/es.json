@@ -1,0 +1,490 @@
+{
+  "common": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "play": "Reproducir",
+    "pause": "Pausar"
+  },
+  "header": {
+    "logo": "Logo de {{name}}",
+    "topline": "Calefaccion, aire acondicionado, aislamiento y conductos",
+    "open_menu": "Abrir menu",
+    "close_menu": "Cerrar menu",
+    "nav": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "about": "Sobre Nosotros",
+      "contact": "Contacto",
+      "faq": "Preguntas Frecuentes"
+    },
+    "cta": "Solicitar servicio",
+    "language": {
+      "en": "EN",
+      "es": "ES",
+      "toggle_label": "Cambiar idioma"
+    }
+  },
+  "template": {
+    "placeholders": {
+      "business_name": "Nombre del negocio",
+      "tagline": "Plantilla para servicios",
+      "description": "Plantilla editable para negocios de servicios. Reemplaza el texto, los datos de contacto, las imagenes y los detalles de servicio antes de publicar."
+    }
+  },
+  "footer": {
+    "about": "Servicio profesional de HVAC en Tampa Bay. Licencia de Florida: CAC1822384.",
+    "quick_links": {
+      "title": "Enlaces rapidos",
+      "home": "Inicio",
+      "services": "Servicios",
+      "about": "Sobre Nosotros",
+      "contact": "Contacto",
+      "faq": "Preguntas Frecuentes"
+    },
+    "services": {
+      "title": "Servicios",
+      "service1": "Reparacion y reemplazo de AC",
+      "service2": "Conductos",
+      "service3": "Limpieza Rotobrush",
+      "service4": "Aislamiento soplado"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Politica de Privacidad",
+      "terms": "Terminos del Servicio"
+    },
+    "contact": {
+      "title": "Contacto",
+      "phone": "(813) 345-7663",
+      "email": "Llama o escribe para servicio"
+    },
+    "crescendo": "Impulsado por Crescendo Marketing",
+    "copyright": "(c) {{year}} CMT Heating & Cooling. Todos los derechos reservados.",
+    "copyright_rights": "Todos los derechos reservados.",
+    "about_description": "Servicio profesional de HVAC en Tampa Bay. Licencia de Florida: CAC1822384.",
+    "marketing_by": "Marketing por"
+  },
+  "cookie_accessibility": {
+    "cookie_badge": "Cookies necesarias",
+    "cookie_title": "Este sitio usa solo cookies necesarias",
+    "cookie_description": "Usamos una cookie minima para recordar preferencias esenciales del sitio, como ajustes de accesibilidad y la aceptacion del aviso de cookies. No se activan cookies opcionales de analitica o marketing por defecto.",
+    "cookie_accept": "Entendido",
+    "cookie_settings": "Ajustes de cookies",
+    "cookie_more": "Leer politica de privacidad",
+    "access_button": "Ajustes de accesibilidad",
+    "access_badge": "Accesibilidad",
+    "access_title": "Ajustes de visualizacion",
+    "access_description": "Elige una paleta alternativa o prepara el sitio para reconocer mejor los enlaces. Estas preferencias se guardan localmente en tu navegador.",
+    "color_mode_title": "Modo de color",
+    "color_mode_default_label": "Paleta original",
+    "color_mode_default_description": "Usa la paleta principal de marca configurada para el sitio.",
+    "color_mode_contrast_label": "Paleta de alto contraste",
+    "color_mode_contrast_description": "Aumenta el contraste entre fondos, textos, bordes y elementos interactivos.",
+    "color_mode_grayscale_label": "Paleta en escala de grises",
+    "color_mode_grayscale_description": "Convierte la interfaz a tonos neutros conservando estructura y jerarquia.",
+    "underline_links_label": "Subrayar enlaces",
+    "underline_links_description": "Fuerza subrayados visibles en los enlaces para facilitar la navegacion y el reconocimiento.",
+    "close": "Cerrar ajustes de accesibilidad"
+  },
+  "floating": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "google": "Perfil de Google Business",
+    "whatsapp": "WhatsApp",
+    "scroll_top": "Volver arriba"
+  },
+  "seo": {
+    "home": {
+      "title": "CMT Heating & Cooling | HVAC, AC y Aislamiento en Tampa Bay",
+      "description": "CMT Heating & Cooling ofrece reparacion de AC, conductos, aislamiento y servicio HVAC en Tampa Bay."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Comodidad en la que puedes confiar",
+      "subtitle": "Soluciones de calefaccion, refrigeracion, aislamiento, conductos y calidad del aire para mantener tu hogar comodo durante todo el ano.",
+      "cta": "Solicitar servicio",
+      "badge": "CMT Heating & Cooling",
+      "greeting": "Confort confiable para tu hogar",
+      "call_label": "Llama al",
+      "image_alt": "Servicio de conductos de CMT Heating & Cooling",
+      "benefits": ["Recomendaciones honestas", "Trabajo de calidad", "Local y confiable"],
+      "social_proof": {
+        "clients_count": "Bilingue",
+        "clients_text": "con base visual y SEO incluidos"
+      },
+      "floating_cards": {
+        "rating": {
+          "label": "Bloques de servicio",
+          "value": "3 listos"
+        },
+        "experience": {
+          "label": "Idiomas",
+          "value": "EN + ES"
+        },
+        "projects": {
+          "label": "SEO base",
+          "value": "Incluido"
+        }
+      }
+    },
+    "services": {
+      "title": "Nuestros servicios",
+      "subtitle": "Soluciones practicas para mejorar el flujo de aire, el aire interior y la comodidad de tu hogar.",
+      "cta": "Saber mas"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Respuestas claras antes de solicitar servicio HVAC.",
+      "cta": "Ver todas las preguntas"
+    },
+    "contact": {
+      "title": "Contacto",
+      "subtitle": "Llama, escribe o envia una solicitud breve para coordinar tu servicio.",
+      "cta": "Contactar ahora"
+    }
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Soluciones practicas para mejorar el flujo de aire, el aire interior y la comodidad de tu hogar.",
+    "cta": "Saber mas",
+    "detail": {
+      "advantages_label": "Ventajas",
+      "advantages_title": "Por que importa este servicio",
+      "tips_label": "Consejos utiles",
+      "tips_title": "Obten mas de tu servicio"
+    },
+    "detail_overview": {
+      "kicker": "Por que los duenos de casa llaman a CMT",
+      "heading": "Mas que una reparacion rapida.",
+      "body": "Cada servicio esta pensado alrededor del confort, el flujo de aire y una comunicacion clara, para que sepas que hace el trabajo y por que importa.",
+      "included_label": "Que incluye:",
+      "proof_points": ["Licencia CAC1822384", "Con fianza y seguro"]
+    },
+    "ac-repair-replacement": {
+      "title": "Reparacion y reemplazo de AC",
+      "seo_title": "Reparacion de AC y Reemplazo Tampa Bay",
+      "seo_description": "Reparacion de AC, diagnostico HVAC y planificacion de reemplazo para propiedades en Tampa Bay.",
+      "description": "Diagnostico, reparacion y planificacion de reemplazo de HVAC para recuperar el confort, evitar fallas repetidas y darte un camino claro antes de que un problema pequeno se vuelva costoso.",
+      "advantages": ["Diagnostico claro que explica que fallo, que todavia funciona y que reparacion vale la pena", "Mejor confort y confiabilidad cuando se corrigen problemas de enfriamiento, ciclos cortos o flujo de aire", "Orientacion entre reparar o reemplazar para evitar gastar de mas en un sistema al final de su vida util"],
+      "tips": ["Cambia los filtros con regularidad para que las restricciones de aire no creen esfuerzo innecesario en el equipo.", "Programa una revision antes de la temporada de mas calor, cuando problemas electricos, de refrigerante o drenaje pueden convertirse en emergencias.", "Pregunta por opciones de reparacion o reemplazo cuando el sistema tenga muchos anos, necesite servicio frecuente o ya no mantenga la temperatura."],
+      "overview": {
+        "kicker": "Aire acondicionado",
+        "heading": "Enfriamiento confiable cuando tu hogar mas lo necesita.",
+        "body": "Cuando falla el AC, el costo real no es solo la reparacion. Tambien es la incomodidad, las visitas repetidas, el alto tiempo de funcionamiento y la duda de si todavia puedes confiar en la unidad. CMT revisa el panorama completo: componentes electricos, flujo de aire, refrigerante, drenaje, edad del equipo y como el sistema responde a la casa. Asi recibes una explicacion practica, no una suposicion.",
+        "advantages": ["Recomendaciones de reparacion claras basadas en revisiones del sistema, no en presion para reemplazar antes de tiempo", "Mayor consistencia de enfriamiento cuando se corrigen problemas de flujo de aire, rendimiento o control", "Mejor plan a largo plazo cuando un reemplazo protege el confort y reduce costos de reparaciones repetidas"],
+        "included": "Diagnostico del sistema, revisiones de rendimiento, revision de flujo de aire, recomendaciones de reparacion y planificacion de instalacion cuando el reemplazo es la mejor opcion a largo plazo."
+      }
+    },
+    "ductwork": {
+      "title": "Conductos",
+      "seo_title": "Conductos y Flujo de Aire Tampa Bay",
+      "seo_description": "Instalacion, reemplazo, sellado y mejoras de flujo de aire para conductos en Tampa Bay.",
+      "description": "Instalacion, reemplazo, modificacion y sellado de conductos para que el aire acondicionado llegue a las habitaciones correctas en vez de perderse en el atico o por recorridos mal planificados.",
+      "advantages": ["Temperaturas mas uniformes porque el aire se distribuye mejor y no pelea contra fugas o restricciones", "Menor perdida de aire acondicionado, lo que puede ayudar al HVAC a trabajar menos para llegar a la temperatura deseada", "Mayor confort con suministro y retorno bien planificados, especialmente en habitaciones que siempre se sienten frias o calientes"],
+      "tips": ["Observa si algunas habitaciones siempre estan mas frias o calientes, porque el problema puede ser entrega de aire y no tamano del equipo.", "Manten abiertas y despejadas las rejillas de suministro y retorno para que el sistema de conductos mueva aire sin presion extra.", "Pide revisar las conexiones de los conductos si el flujo baja de repente, aumenta el polvo o el sistema trabaja por mas tiempo."],
+      "overview": {
+        "kicker": "Conductos",
+        "heading": "Mejor flujo de aire de una habitacion a otra.",
+        "body": "El sistema de conductos es la red que entrega cada parte del aire frio o caliente que produce el equipo. Si los conductos son pequenos, tienen fugas, estan desconectados, aplastados o mal balanceados, la casa puede sentirse incomoda aunque el AC este funcionando. Mejorar los conductos ayuda a mover el aire donde corresponde, reducir desperdicio y darle al equipo una mejor oportunidad de trabajar con eficiencia.",
+        "advantages": ["Temperaturas mas parejas entre dormitorios, areas comunes y espacios dificiles de enfriar", "Menos perdida de aire en aticos o espacios ocultos donde las fugas desperdician confort y energia", "Mejor rendimiento del sistema porque el flujo balanceado puede reducir esfuerzo y tiempos largos de funcionamiento"],
+        "included": "Inspecciones de conductos, sistemas nuevos, reemplazos, modificaciones, sellado, balance de flujo de aire y recomendaciones practicas para habitaciones con problemas de confort."
+      }
+    },
+    "rotobrush-duct-cleaning": {
+      "title": "Limpieza de conductos Rotobrush",
+      "seo_title": "Limpieza Rotobrush de Conductos Tampa Bay",
+      "seo_description": "Limpieza y sanitizacion Rotobrush para rutas de aire mas limpias en hogares de Tampa Bay.",
+      "description": "Limpieza y sanitizacion profesional Rotobrush para ayudar a retirar polvo, residuos y acumulacion de las rutas de aire que tu hogar usa todos los dias.",
+      "advantages": ["Rutas de suministro y retorno mas limpias para que se levante menos polvo acumulado cuando el HVAC funciona", "Apoyo a una mejor calidad de aire interior despues de remodelaciones, polvo, mascotas, olores o anos sin limpieza", "Ambiente interior mas fresco cuando la limpieza se combina con buenos habitos de filtracion"],
+      "tips": ["Considera la limpieza despues de remodelaciones, polvo de construccion, entrada de agua o largos periodos con polvo visible en las rejillas.", "Reemplaza los filtros por el tamano y nivel correctos para que los conductos limpios no acumulen residuos nuevos rapidamente.", "Pregunta por sanitizacion cuando haya acumulacion, olores o preocupaciones de aire interior."],
+      "overview": {
+        "kicker": "Limpieza Rotobrush",
+        "heading": "Conductos mas limpios. Aire mas fresco.",
+        "body": "Cada vez que el sistema funciona, el aire de la casa pasa por conductos de suministro y retorno. Con el tiempo, polvo, residuos y acumulacion pueden quedarse dentro de esas rutas. La limpieza Rotobrush ayuda a retirar ese material desde la fuente, algo especialmente util despues de remodelaciones, exposicion a mucho polvo, olores o cuando la casa lleva anos sin limpiar los conductos.",
+        "advantages": ["Menos polvo y residuos dentro de los conductos por donde se mueve el aire del hogar", "Rutas de suministro y retorno mas limpias que apoyan el trabajo de filtros y mejoras de aire interior", "Ambiente interior mas comodo cuando la limpieza se combina con buena filtracion y mantenimiento"],
+        "included": "Limpieza profesional Rotobrush, opciones de sanitizacion, atencion a las rutas visibles de aire y recomendaciones claras para mantener los conductos mas limpios despues de la visita."
+      }
+    },
+    "blown-in-insulation": {
+      "title": "Aislamiento soplado",
+      "seo_title": "Aislamiento Soplado de Atico Tampa Bay",
+      "seo_description": "Aislamiento soplado para confort, menor transferencia de calor y menor consumo HVAC.",
+      "description": "Aislamiento de atico instalado con equipo profesional para mejorar comodidad, reducir la transferencia de calor y ayudar a bajar el consumo de energia.",
+      "advantages": ["Mayor comodidad en el atico al frenar el calor que se acumula sobre el area habitable", "Menor entrada de calor por el atico para que las habitaciones mantengan mejor la temperatura", "Menos trabajo para el HVAC y posibles ahorros de energia porque el sistema no tiene que esforzarse tanto"],
+      "tips": ["Revisa el aislamiento del atico antes de cambios extremos de clima.", "Busca cobertura desigual, aislamiento asentado o areas expuestas.", "Combina mejoras de aislamiento con sellado de conductos para ayudar a reducir energia desperdiciada."],
+      "overview": {
+        "kicker": "Aislamiento soplado",
+        "heading": "Un atico mas comodo y un hogar mas eficiente.",
+        "body": "El aislamiento correcto en el atico ayuda a frenar la transferencia de calor, reducir cambios de temperatura y hacer que el aire acondicionado trabaje por mas tiempo dentro de la casa. En el calor de Florida, eso importa porque el atico puede empujar calor hacia el area habitable durante todo el dia. Mejorar la cobertura puede bajar el tiempo de funcionamiento del HVAC, reducir esfuerzo innecesario del sistema y ayudar a reducir el consumo de energia con el tiempo.",
+        "advantages": ["Menos calor del atico entrando al area habitable", "Menor esfuerzo para el sistema de AC", "Posible reduccion del consumo mensual de energia"],
+        "included": "Evaluacion del atico, instalacion profesional de aislamiento soplado, revision de cobertura y orientacion practica enfocada en confort y eficiencia energetica."
+      }
+    },
+    "commercial-hvac": {
+      "title": "HVAC comercial",
+      "seo_title": "Servicio HVAC Comercial en Tampa Bay",
+      "seo_description": "Servicio HVAC comercial, reparacion, reemplazo, conductos y flujo de aire en Tampa Bay.",
+      "description": "Servicio HVAC comercial enfocado en confort, programacion, confiabilidad del equipo y planificacion clara para espacios donde trabajan empleados, clientes o inquilinos.",
+      "advantages": ["Planificacion de confort para oficinas, locales, areas de inquilinos y zonas comerciales con distintos patrones de uso", "Programacion y comunicacion claras para reducir interrupciones en la operacion diaria del negocio", "Recomendaciones practicas de reparacion, reemplazo y flujo de aire que apoyan confiabilidad y presupuesto a largo plazo"],
+      "tips": ["Planifica el mantenimiento segun el horario de operacion para no interrumpir clientes, empleados o inquilinos.", "Documenta los problemas de confort por habitacion o zona para rastrear mejor fallas de flujo de aire, termostato o equipo.", "Corrige problemas de flujo de aire antes de que se conviertan en fallas del equipo, quejas de confort o tiempos muertos evitables."],
+      "overview": {
+        "kicker": "HVAC comercial",
+        "heading": "Confort y confiabilidad para los espacios donde opera tu negocio.",
+        "body": "Los problemas de confort comercial afectan mas que la temperatura. Pueden afectar empleados, inquilinos, clientes, cuartos de equipo, horarios y continuidad del negocio. CMT trabaja el HVAC comercial con planificacion: que necesita el espacio, cuando puede hacerse el servicio, como se distribuye el aire y si reparar o reemplazar es la inversion mas practica.",
+        "advantages": ["Planificacion profesional que considera horarios del negocio, acceso y prioridades de confort", "Servicio para propiedades comerciales donde la confiabilidad y la comunicacion importan tanto como la reparacion", "Recomendaciones claras para que duenos y administradores planifiquen mantenimiento, reemplazo y trabajo de flujo de aire"],
+        "included": "Servicio HVAC comercial, recomendaciones de sistema, coordinacion de conductos, revision de flujo de aire, comunicacion de horarios y orientacion continua para reparacion o reemplazo."
+      }
+    },
+    "new-construction": {
+      "title": "Construccion nueva",
+      "seo_title": "HVAC para Construccion Nueva Tampa Bay",
+      "seo_description": "Planificacion de HVAC y conductos para proyectos de construccion nueva en Tampa Bay.",
+      "description": "Planificacion de HVAC y conductos para construccion nueva, ayudando a que el hogar o edificio comience con buen flujo de aire, ubicacion de equipos, acceso de servicio y expectativas de confort desde el primer dia.",
+      "advantages": ["Mejor confort a largo plazo porque recorridos de conductos, ubicacion de equipos y flujo de aire se planifican antes de cerrar paredes", "Menos problemas de correccion futura al coordinar temprano las necesidades HVAC con tiempos de obra y puntos de acceso", "Base mas fuerte para eficiencia porque el sistema se disena alrededor del espacio y no se fuerza despues"],
+      "tips": ["Planifica equipos y recorridos de conductos antes de cerrar paredes para no comprometer flujo de aire ni acceso de servicio.", "Confirma flujo de aire, rutas de retorno, drenaje y acceso a equipos con el equipo de construccion antes de terminar el rough-in.", "Conserva registros de instalacion para servicio futuro, preguntas de garantia, mantenimiento y mejoras posteriores."],
+      "overview": {
+        "kicker": "Construccion nueva",
+        "heading": "HVAC y conductos planificados desde la obra.",
+        "body": "La construccion nueva le da al HVAC su mejor oportunidad: planificar antes de que los compromisos queden dentro de las paredes. Cuando ubicacion de equipos, rutas de conductos, aire de retorno, drenaje y acceso de servicio se consideran temprano, el espacio final puede ser mas comodo, mas facil de mantener y menos propenso a necesitar correcciones despues de la mudanza.",
+        "advantages": ["Planificacion de conductos y sistema disenada para la distribucion real, no forzada en espacios sobrantes", "Coordinacion con el calendario del proyecto para que la instalacion apoye la obra sin retrasarla", "Confort planificado desde el primer dia mediante distribucion de aire, ubicacion de equipos y acceso futuro de servicio"],
+        "included": "Planificacion de HVAC y conductos, coordinacion de instalacion, distribucion del flujo de aire, apoyo de rough-in, revision de acceso de servicio y recomendaciones enfocadas en el proyecto."
+      }
+    },
+    "header": {
+      "title": "Servicios",
+      "subtitle": "Soluciones reales de HVAC para confort, aire interior y eficiencia."
+    },
+    "cards": [
+      {
+        "title": "Reparacion y reemplazo de AC",
+        "description": "Diagnostico, reparacion y planificacion de reemplazo para mantener tu hogar comodo.",
+        "cta": "Solicitar servicio"
+      },
+      {
+        "title": "Conductos y flujo de aire",
+        "description": "Instalacion, reemplazo, modificacion y sellado para mejorar el rendimiento del sistema.",
+        "cta": "Solicitar servicio"
+      },
+      {
+        "title": "Aislamiento y aire interior",
+        "description": "Limpieza Rotobrush, sanitizacion y aislamiento soplado para apoyar confort y calidad de aire.",
+        "cta": "Solicitar servicio"
+      }
+    ]
+  },
+  "financing": {
+    "kicker": "Opciones de financiamiento",
+    "title": "Informacion de pago flexible, separada de los detalles del servicio.",
+    "body": "Algunos proyectos que califican pueden ser elegibles para financiamiento de 6 a 24 meses sin intereses. Como el financiamiento no aplica a todos los servicios ni a todos los alcances, CMT lo presenta como informacion separada durante la conversacion del estimado.",
+    "note": "La disponibilidad puede depender del tipo de servicio, el total del proyecto, la aprobacion y los terminos de financiamiento vigentes.",
+    "cta": "Pregunta por financiamiento",
+    "call_label": "Llama al",
+    "items": [
+      {
+        "label": "6 a 24 meses",
+        "text": "Opciones sin intereses pueden estar disponibles para trabajos que califican, ayudando a que proyectos grandes de confort se adapten a un presupuesto mensual."
+      },
+      {
+        "label": "Segun el servicio",
+        "text": "El financiamiento se revisa separado de los beneficios del servicio, para que el cliente entienda que califica antes de decidir."
+      },
+      {
+        "label": "Licencia",
+        "text": "CMT Heating & Cooling opera con licencia HVAC de Florida CAC1822384."
+      },
+      {
+        "label": "Proteccion",
+        "text": "La compania cuenta con fianza y seguro para mayor confianza en trabajos residenciales y comerciales."
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "Reseñas de clientes",
+    "title": "Lo que dicen los clientes de CMT.",
+    "subtitle": "Lee comentarios recientes de propietarios que llamaron a CMT Heating & Cooling para confort, flujo de aire, aislamiento y servicio HVAC.",
+    "iframe_title": "Reseñas de clientes de CMT Heating & Cooling"
+  },
+  "about": {
+    "title": "Sobre CMT Heating & Cooling",
+  "seo_title": "Equipo HVAC con Licencia en Tampa Bay",
+    "seo_description": "Conoce como CMT Heating & Cooling sirve hogares, negocios y proyectos nuevos en Tampa Bay.",
+    "description": "CMT Heating & Cooling ofrece servicio profesional residencial y comercial de HVAC en Tampa Bay, incluyendo diagnostico, reparacion, conductos, aislamiento y construccion nueva.",
+    "mission": {
+      "title": "Nuestra mision",
+      "text": "Nuestra mision es hacer que el confort interior sea mas confiable mediante recomendaciones claras, trabajo cuidadoso y soluciones HVAC adecuadas para cada propiedad."
+    },
+    "vision": {
+      "title": "Nuestro enfoque",
+      "text": "Desde la primera llamada hasta el trabajo terminado, CMT se enfoca en planificacion practica, atencion respetuosa y una explicacion clara de lo realizado."
+    },
+    "values": {
+      "title": "Valores clave",
+      "items": [
+        {
+          "name": "Servicio con licencia",
+          "description": "Licencia HVAC de Florida CAC1822384 y servicio basado en estandares profesionales."
+        },
+        {
+          "name": "Soluciones completas",
+          "description": "AC, conductos, limpieza Rotobrush, aislamiento, HVAC comercial y construccion nueva."
+        },
+        {
+          "name": "Cobertura local",
+          "description": "Servimos comunidades de Tampa Bay como Tampa, Brandon, Clearwater, Riverview, St. Petersburg y Wesley Chapel."
+        }
+      ]
+    },
+    "facts": {
+      "title": "CMT en resumen",
+      "items": [
+        { "label": "Licencia", "value": "Florida CAC1822384" },
+        { "label": "Zona de servicio", "value": "Tampa Bay y comunidades cercanas" },
+        { "label": "Tipos de trabajo", "value": "Residencial, comercial y construccion nueva" },
+        { "label": "Financiamiento", "value": "Disponible de 6 a 24 meses sin intereses" },
+        { "label": "Proteccion", "value": "Con fianza y seguro" }
+      ]
+    },
+    "service_process": {
+      "title": "Que pueden esperar los clientes",
+      "items": [
+        { "title": "Empezamos con el problema real", "text": "Escuchamos el problema de confort, revisamos el sistema y explicamos las opciones practicas." },
+        { "title": "Planificamos el alcance correcto", "text": "Las recomendaciones de reparacion, reemplazo, flujo de aire, aislamiento e instalacion se adaptan a la propiedad." },
+        { "title": "Terminamos con confianza", "text": "Recibes comunicacion clara, trabajo cuidadoso y un siguiente paso sencillo para mantener el confort." }
+      ]
+    },
+    "badges": {
+      "licensed": "Licencia CAC1822384",
+      "coverage": "Residencial + comercial",
+      "insured": "Con fianza y seguro"
+    },
+    "call_label": "Llama al",
+    "final_title": "Listo para hablar de confort?",
+    "final_text": "CMT sirve Tampa Bay y las comunidades cercanas con visitas de servicio, estimados, planificacion de reemplazos, instalacion de HVAC y opciones de financiamiento de 6 a 24 meses sin intereses."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+  "seo_title": "Preguntas HVAC, AC y Conductos Tampa Bay",
+    "seo_description": "Respuestas sobre reparacion de AC, conductos, limpieza, aislamiento y servicio HVAC en Tampa Bay.",
+    "subtitle": "Respuestas claras sobre servicios HVAC, conductos, aislamiento y calidad de aire interior.",
+    "items": [
+      {
+        "question": "CMT puede ayudarme a decidir entre reparar o reemplazar el AC?",
+        "answer": "Si. CMT puede revisar el sistema, explicar que causa el problema de confort y mostrar opciones de reparacion o planificacion de reemplazo cuando el equipo es antiguo, poco eficiente o ya no mantiene la temperatura."
+      },
+      {
+        "question": "Cuando se deben reparar o reemplazar los conductos?",
+        "answer": "Conviene revisar los conductos cuando algunas habitaciones se sienten desiguales, el flujo de aire es debil, suben los costos de energia o hay conductos danados, con fugas, desconectados o mal ubicados. CMT trabaja sistemas nuevos, reemplazos, modificaciones, sellado y mejoras de flujo de aire."
+      },
+      {
+        "question": "Que beneficios tiene la limpieza de conductos Rotobrush?",
+        "answer": "La limpieza Rotobrush ayuda a retirar polvo, residuos y acumulacion dentro de los conductos de suministro y retorno. Puede apoyar un aire interior mas limpio, reducir polvo circulando y es util despues de remodelaciones, mucho polvo u olores."
+      },
+      {
+        "question": "Como influyen el aislamiento y los conductos en el rendimiento HVAC?",
+        "answer": "El aislamiento soplado del atico ayuda a reducir la transferencia de calor, mientras que conductos bien planificados ayudan a llevar el aire acondicionado a cada habitacion de forma mas uniforme. Juntos pueden mejorar el confort, reducir el esfuerzo del sistema y ayudar a bajar el consumo de energia."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+  "seo_title": "Contacta a CMT para HVAC en Tampa Bay",
+    "seo_description": "Contacta a CMT Heating & Cooling para servicio HVAC, estimados y confort en Tampa Bay.",
+    "subtitle": "Esta pagina se enfoca en un siguiente paso claro: llamar, escribir o enviar una consulta breve.",
+    "info": {
+      "title": "Informacion de Contacto",
+      "location_title": "Zona de Servicio",
+      "contact_title": "Telefono",
+      "email_title": "Correo Electronico",
+      "hours_title": "Horario de Atencion",
+      "map_title": "Mapa de Google de CMT Heating & Cooling",
+      "map_placeholder_title": "Modulo de mapa o cobertura",
+      "map_placeholder_text": "Inserta aqui tu Google Map, radio de servicio, direccion del showroom u otra prueba de ubicacion.",
+      "location": "Tampa Bay y comunidades cercanas",
+      "phone": "(813) 345-7663",
+      "email": "Llama o escribe para servicio",
+      "hours": "Llama o escribe para servicio y cotizaciones",
+      "languages": "Ingles, Espanol"
+    },
+    "form": {
+      "heading": "Envianos un mensaje",
+      "name": "Nombre completo",
+      "name_placeholder": "Ingresa tu nombre completo",
+      "email": "Correo electronico",
+      "email_placeholder": "Ingresa tu correo electronico",
+      "phone": "Telefono",
+      "phone_placeholder": "Ingresa tu numero de telefono",
+      "service": "Servicio",
+      "service_placeholder": "Selecciona un servicio",
+      "service_info": "Consulta general",
+      "service_other": "Otro",
+      "message": "Mensaje",
+      "message_placeholder": "Cuentanos que necesitas",
+      "submit": "Enviar mensaje",
+      "sending": "Abriendo borrador de correo...",
+      "success": "El borrador de correo se preparo correctamente.",
+      "error": "No se pudo abrir el borrador de correo. Intenta nuevamente."
+    }
+  },
+  "privacy": {
+    "title": "Politica de Privacidad",
+  "seo_title": "Politica de Privacidad | CMT Heating & Cooling Sitio Web",
+    "seo_description": "Politica de privacidad para el sitio de CMT Heating & Cooling.",
+    "intro": "Esta politica de privacidad explica como {{name}} puede recopilar, usar, almacenar y proteger la informacion compartida a traves de este sitio web.",
+    "sections": {
+      "collection": {
+        "title": "Informacion que Recopilamos",
+        "body": "Podemos recopilar informacion que los visitantes deciden enviar, como nombres, telefonos, correos electronicos, detalles del servicio y contenido de mensajes. Tambien puede recopilarse informacion tecnica basica, como datos del navegador o tipo de dispositivo, cuando sea necesaria para el funcionamiento y la seguridad del sitio."
+      },
+      "usage": {
+        "title": "Como Usamos la Informacion",
+        "body": "La informacion puede usarse para responder consultas, preparar cotizaciones, coordinar servicios, mejorar la funcionalidad del sitio, mantener la seguridad y hacer seguimiento a solicitudes comerciales legitimas."
+      },
+      "sharing": {
+        "title": "Servicios de Terceros",
+        "body": "La informacion puede ser procesada por proveedores externos de confianza que apoyan el hosting, la entrega de correos, los formularios, la seguridad u otras operaciones esenciales del sitio. Los datos solo se comparten cuando es razonablemente necesario para esas funciones."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "Este sitio esta pensado para usar solo cookies necesarias. Esas cookies pueden emplearse para recordar preferencias esenciales del sitio, como ajustes de accesibilidad o la aceptacion del aviso de cookies. Si en el futuro se agregan herramientas opcionales de analitica, publicidad o personalizacion, esta politica debe actualizarse antes de publicar."
+      },
+      "contact": {
+        "title": "Preguntas sobre Privacidad",
+        "body": "Si tienes preguntas sobre privacidad o tratamiento de datos, contactanos en {{email}}."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terminos del Servicio",
+  "seo_title": "Terminos del Servicio | CMT Heating & Cooling Sitio Web",
+    "seo_description": "Terminos de servicio para el sitio de CMT Heating & Cooling.",
+    "intro": "Estos terminos regulan el uso del sitio web de {{name}} y el envio de consultas a traves de el.",
+    "sections": {
+      "use": {
+        "title": "Uso del Sitio Web",
+        "body": "El contenido de este sitio se ofrece con fines informativos generales y puede actualizarse en cualquier momento. Los visitantes se comprometen a usar el sitio de forma legal y a no intentar interferir con su funcionamiento normal."
+      },
+      "estimates": {
+        "title": "Consultas y Cotizaciones",
+        "body": "Enviar un formulario, mandar un correo o hacer una llamada no crea por si solo un acuerdo vinculante de servicio. El precio, la disponibilidad, los plazos y el alcance deben confirmarse directamente con el negocio."
+      },
+      "intellectual_property": {
+        "title": "Contenido y Propiedad Intelectual",
+        "body": "Salvo que se indique lo contrario, el contenido del sitio, la marca, los textos y los recursos visuales pertenecen al negocio o se usan con permiso. No pueden copiarse, reutilizarse ni redistribuirse sin autorizacion."
+      },
+      "liability": {
+        "title": "Limites y Responsabilidad",
+        "body": "Trabajamos para mantener la informacion del sitio util y precisa, pero no garantizamos que cada pagina, funcion o integracion de terceros este siempre completa, actualizada o libre de interrupciones. El uso del sitio queda a discrecion del visitante."
+      },
+      "contact": {
+        "title": "Preguntas sobre estos Terminos",
+        "body": "Para preguntas sobre estos terminos, contactanos en {{email}}."
+      }
+    }
+  }
+}

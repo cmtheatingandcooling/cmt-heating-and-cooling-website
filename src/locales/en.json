@@ -1,0 +1,482 @@
+{
+  "common": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  },
+  "header": {
+    "logo": "{{name}} logo",
+    "topline": "Heating, cooling, insulation & ductwork",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu",
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About",
+      "contact": "Contact",
+      "faq": "FAQ"
+    },
+    "cta": "Request Service",
+    "language": {
+      "en": "EN",
+      "es": "ES",
+      "toggle_label": "Change language"
+    }
+  },
+  "template": {
+    "placeholders": {
+      "business_name": "Your Business Name",
+      "tagline": "Service Landing Template",
+      "description": "Editable landing page template for service businesses. Replace the copy, contact data, imagery, and service details before publishing."
+    }
+  },
+  "footer": {
+    "about": "This template is structured for service businesses. Replace this paragraph with your positioning, proof, and service area.",
+    "quick_links": {
+      "title": "Quick Links",
+      "home": "Home",
+      "services": "Services",
+      "about": "About",
+      "contact": "Contact",
+      "faq": "FAQ"
+    },
+    "services": {
+      "title": "Service Sections",
+      "service1": "AC Repair & Replacement",
+      "service2": "Ductwork",
+      "service3": "Rotobrush Duct Cleaning",
+      "service4": "Blown-In Insulation"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "(813) 345-7663",
+      "email": "Call or text for service"
+    },
+    "crescendo": "Powered by Crescendo Marketing",
+    "copyright": "(c) {{year}} Your Business Name. All rights reserved.",
+    "copyright_rights": "All rights reserved.",
+    "about_description": "Professional HVAC service throughout Tampa Bay. Florida License: CAC1822384.",
+    "marketing_by": "Marketing by"
+  },
+  "cookie_accessibility": {
+    "cookie_badge": "Essential cookies",
+    "cookie_title": "This website uses only necessary cookies",
+    "cookie_description": "We use a minimal cookie to remember essential website preferences such as accessibility settings and cookie acknowledgement. No optional analytics or marketing cookies are enabled by default in this template.",
+    "cookie_accept": "Understood",
+    "cookie_settings": "Cookie settings",
+    "cookie_more": "Read the privacy policy",
+    "access_button": "Accessibility settings",
+    "access_badge": "Accessibility",
+    "access_title": "Display settings",
+    "access_description": "Choose an alternative color palette or prepare the website for easier link recognition. These preferences are stored locally in your browser.",
+    "color_mode_title": "Color mode",
+    "color_mode_default_label": "Default palette",
+    "color_mode_default_description": "Use the original brand palette configured for the website.",
+    "color_mode_contrast_label": "High contrast palette",
+    "color_mode_contrast_description": "Increase contrast between backgrounds, text, borders, and interactive elements.",
+    "color_mode_grayscale_label": "Grayscale palette",
+    "color_mode_grayscale_description": "Switch the interface to neutral grayscale tones while preserving structure and hierarchy.",
+    "underline_links_label": "Underline links",
+    "underline_links_description": "Force visible underlines on links to support easier navigation and recognition.",
+    "close": "Close accessibility settings"
+  },
+  "floating": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "google": "Google Business Profile",
+    "whatsapp": "WhatsApp",
+    "scroll_top": "Scroll to top"
+  },
+  "seo": {
+    "home": {
+      "title": "CMT Heating & Cooling | Tampa Bay HVAC Repair & Insulation",
+      "description": "CMT Heating & Cooling provides AC repair, ductwork, insulation, and HVAC service across Tampa Bay."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Comfort you can count on",
+      "subtitle": "Heating, cooling, insulation, ductwork, and indoor air quality solutions designed to keep your home comfortable through every season.",
+      "cta": "Request service",
+      "badge": "CMT Heating & Cooling",
+      "greeting": "Reliable home comfort",
+      "call_label": "Call",
+      "image_alt": "CMT Heating & Cooling ductwork service",
+      "benefits": ["Honest recommendations", "Quality workmanship", "Local & dependable"],
+      "social_proof": {
+        "clients_count": "Bilingual",
+        "clients_text": "layout and SEO foundation included"
+      },
+      "floating_cards": {
+        "rating": {
+          "label": "Service blocks",
+          "value": "3 ready"
+        },
+        "experience": {
+          "label": "Languages",
+          "value": "EN + ES"
+        },
+        "projects": {
+          "label": "SEO basics",
+          "value": "Included"
+        }
+      }
+    },
+    "services": {
+      "title": "Our services",
+      "subtitle": "Practical solutions for better airflow, cleaner air, and a more comfortable home.",
+      "cta": "Learn more"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answer the questions prospects usually have before they decide to contact you.",
+      "cta": "See all FAQs"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Keep one clear conversion point with phone, email, hours, and a short inquiry form.",
+      "cta": "Contact now"
+    }
+  },
+  "services": {
+      "title": "Our services",
+      "subtitle": "Practical solutions for better airflow, cleaner air, and a more comfortable home.",
+      "cta": "Learn more",
+      "detail": { "advantages_label": "Advantages", "advantages_title": "Why this service matters", "tips_label": "Helpful tips", "tips_title": "Get more from your service" },
+      "detail_overview": {
+        "kicker": "Why homeowners call CMT",
+        "heading": "More than a quick fix.",
+        "body": "Every service is designed around comfort, airflow, and clear communication, so you know what the work does and why it matters.",
+        "included_label": "What is included:",
+        "proof_points": ["License CAC1822384", "Bonded and insured"]
+      },
+    "ac-repair-replacement": {
+      "title": "AC Repair & Replacement",
+      "seo_title": "AC Repair & Replacement Service Tampa Bay",
+      "seo_description": "AC repair, replacement planning, and HVAC diagnostics for Tampa Bay homes and businesses.",
+      "description": "Professional HVAC diagnosis, repair, and replacement planning that restores comfort, helps prevent repeat breakdowns, and gives you a clear path forward before small problems become expensive ones.",
+      "advantages": ["Clear diagnosis that explains what failed, what still works, and which repair is worth doing", "Better comfort and reliability when weak cooling, short cycling, or airflow problems are corrected", "Repair-versus-replacement guidance that helps avoid spending money on a system near the end of its life"],
+      "tips": ["Change filters regularly so airflow restrictions do not create unnecessary strain on the equipment.", "Schedule a system check before peak heat, when small electrical, refrigerant, or drainage issues can turn into emergency calls.", "Ask for repair-versus-replacement options when the system is aging, needs frequent service, or struggles to keep temperature."],
+      "overview": {
+        "kicker": "Air conditioning",
+        "heading": "Reliable cooling when your home needs it most.",
+        "body": "When an AC system fails, the real cost is not only the repair. It is the discomfort, repeat visits, high runtime, and uncertainty about whether the unit can still be trusted. CMT looks at the whole cooling picture: electrical components, airflow, refrigerant performance, drainage, age, and how well the system is matching the home. That gives you a practical explanation instead of a guess.",
+        "advantages": ["Clear repair recommendations backed by system checks, not pressure to replace too early", "Improved cooling consistency when airflow, performance, or control issues are corrected", "Smarter long-term planning when a replacement would protect comfort and reduce ongoing repair costs"],
+        "included": "System diagnosis, performance checks, airflow review, repair recommendations, and installation planning when replacement is the stronger long-term choice."
+      }
+    },
+    "ductwork": {
+      "title": "Ductwork",
+      "seo_title": "Ductwork & Airflow Service Tampa Bay",
+      "seo_description": "Ductwork installation, replacement, sealing, and airflow improvements for Tampa Bay properties.",
+      "description": "Ductwork installation, replacement, modification, and sealing that helps conditioned air reach the rooms it is meant to serve instead of being lost in the attic or wasted through poor routing.",
+      "advantages": ["More even room temperatures because air delivery is balanced instead of fighting leaks or restrictions", "Reduced conditioned-air loss that can help the HVAC system work less to reach the thermostat setting", "Better comfort from properly planned supply and return airflow, especially in rooms that run hot or cold"],
+      "tips": ["Watch for rooms that are always warmer or colder, because the issue may be air delivery instead of equipment size.", "Keep supply and return vents open and unobstructed so the duct system can move air without extra pressure.", "Have duct connections checked when airflow suddenly drops, dust increases, or the system runs longer than usual."],
+      "overview": {
+        "kicker": "Ductwork",
+        "heading": "Better airflow from room to room.",
+        "body": "The duct system is the delivery network for every bit of heated or cooled air your equipment creates. If ducts are undersized, leaking, disconnected, crushed, or poorly balanced, the home can feel uncomfortable even when the AC itself is running. Improving ductwork helps move air where it belongs, reduce waste, and give the equipment a better chance to perform efficiently.",
+        "advantages": ["More even temperatures between bedrooms, living areas, and hard-to-cool rooms", "Reduced air loss in attics or hidden spaces where leaks can waste comfort and energy", "Improved system performance because balanced airflow can reduce strain and longer runtimes"],
+        "included": "Duct inspections, new duct systems, replacements, modifications, sealing, airflow balancing, and practical recommendations for rooms with comfort problems."
+      }
+    },
+    "rotobrush-duct-cleaning": {
+      "title": "Rotobrush Duct Cleaning",
+      "seo_title": "Rotobrush Duct Cleaning Service Tampa Bay",
+      "seo_description": "Professional Rotobrush duct cleaning and sanitization for cleaner air pathways in Tampa Bay homes.",
+      "description": "Professional Rotobrush duct cleaning and sanitization that helps remove dust, debris, and buildup from the air pathways your home uses every day.",
+      "advantages": ["Cleaner supply and return paths so less built-up dust is disturbed when the HVAC system runs", "Support for better indoor air quality after renovation dust, pet dander, odors, or long periods without cleaning", "A fresher indoor environment when duct buildup and odor sources are addressed along with filter habits"],
+      "tips": ["Consider cleaning after renovation, construction dust, water intrusion, or long periods of visible dust from vents.", "Replace filters with the correct size and rating so clean ducts are not quickly loaded with new debris.", "Ask about sanitization when buildup, odors, or indoor air concerns are present."],
+      "overview": {
+        "kicker": "Rotobrush duct cleaning",
+        "heading": "Cleaner ducts. Fresher air.",
+        "body": "Every time the system runs, household air passes through supply and return duct paths. Over time, dust, debris, and other buildup can collect inside those pathways. Rotobrush cleaning helps remove that material at the source, which is especially valuable after remodeling, heavy dust exposure, odors, or when a home has not had the duct system cleaned in years.",
+        "advantages": ["Less dust and debris sitting inside duct runs where air moves through the home", "Cleaner supply and return paths that support the work of filters and indoor air improvements", "A more comfortable indoor environment when cleaning is paired with proper filtration and maintenance"],
+        "included": "Professional Rotobrush duct cleaning, sanitization options, visible air-path attention, and straightforward recommendations for keeping ducts cleaner after the visit."
+      }
+    },
+    "blown-in-insulation": {
+      "title": "Blown-In Insulation",
+      "seo_title": "Blown-In Insulation Service Tampa Bay",
+      "seo_description": "Blown-in attic insulation for comfort, reduced heat transfer, and lower HVAC energy use.",
+      "description": "Attic insulation installed with professional blowing equipment to improve comfort, reduce heat transfer, and help lower energy consumption.",
+      "advantages": ["Improved attic comfort by slowing the heat that builds above the living space", "Reduced heat gain through the attic so rooms can hold temperature more consistently", "Lower HVAC workload and potential energy savings as the system does not have to run as hard"],
+      "tips": ["Check attic insulation before extreme weather arrives.", "Look for uneven coverage, settled insulation, or exposed attic areas.", "Pair insulation improvements with duct sealing to help reduce wasted energy."],
+      "overview": {
+        "kicker": "Blown-in insulation",
+        "heading": "A more comfortable attic and a more efficient home.",
+        "body": "The right attic insulation helps slow heat transfer, reduce temperature swings, and keep conditioned air working longer. In Florida heat, that matters because the attic can push warmth into the living space all day. Improving coverage can lower HVAC runtime, reduce unnecessary system strain, and help bring energy consumption down over time.",
+        "advantages": ["Less attic heat entering the living space", "Reduced strain on the AC system", "Potentially lower monthly energy use"],
+        "included": "Attic assessment, professional blown-in insulation installation, coverage review, and practical next-step guidance focused on comfort and energy efficiency."
+      }
+    },
+    "commercial-hvac": {
+      "title": "Commercial HVAC",
+      "seo_title": "Commercial HVAC Service Tampa Bay",
+      "seo_description": "Commercial HVAC repair, replacement planning, ductwork, and airflow service in Tampa Bay.",
+      "description": "Commercial HVAC service built around comfort, scheduling, equipment reliability, and clear planning for the spaces where employees, tenants, and customers spend their day.",
+      "advantages": ["Comfort planning for offices, retail spaces, tenant areas, and commercial zones with different usage patterns", "Clear scheduling and communication that helps reduce disruption to daily business operations", "Practical repair, replacement, and airflow recommendations that support reliability and long-term budgeting"],
+      "tips": ["Plan maintenance around operating hours so service does not interrupt customers, employees, or tenants.", "Document comfort complaints by room or zone so airflow, thermostat, and equipment issues can be traced more accurately.", "Address airflow issues before they become equipment failures, indoor comfort complaints, or avoidable downtime."],
+      "overview": {
+        "kicker": "Commercial HVAC",
+        "heading": "Comfort and reliability for the places your business runs.",
+        "body": "Commercial comfort problems affect more than temperature. They can affect employees, tenants, customers, equipment rooms, scheduling, and business continuity. CMT approaches commercial HVAC with planning first: what the space needs, when service can happen, how airflow is distributed, and whether repair or replacement is the more practical investment.",
+        "advantages": ["Professional project planning that accounts for business hours, access, and comfort priorities", "Service for commercial properties where reliability and communication matter as much as the repair itself", "Clear recommendations that help owners and managers plan maintenance, replacement, and airflow work"],
+        "included": "Commercial HVAC service, system recommendations, ductwork coordination, airflow review, scheduling communication, and ongoing repair or replacement guidance."
+      }
+    },
+    "new-construction": {
+      "title": "New Construction",
+      "seo_title": "New Construction HVAC Planning Tampa Bay",
+      "seo_description": "HVAC and ductwork planning for new construction projects across Tampa Bay.",
+      "description": "HVAC and ductwork planning for new construction, helping the home or building start with proper airflow, equipment placement, service access, and comfort expectations from day one.",
+      "advantages": ["Better long-term comfort because duct routing, equipment placement, and airflow are planned before walls close", "Fewer retrofit headaches by coordinating HVAC needs early with construction timelines and access points", "A stronger foundation for efficiency because the system is designed around the space instead of forced into it later"],
+      "tips": ["Plan equipment and duct paths before walls are closed so airflow and service access are not compromised.", "Confirm airflow, return-air paths, drain routing, and equipment access with the build team before rough-in is complete.", "Keep installation records for future service, warranty questions, maintenance, and later upgrades."],
+      "overview": {
+        "kicker": "New construction",
+        "heading": "HVAC and ductwork planned for the build.",
+        "body": "New construction gives HVAC its best opportunity: planning before compromises are built into the walls. When equipment location, duct routes, return airflow, drainage, and service access are considered early, the final space can be more comfortable, easier to maintain, and less likely to need corrective work after move-in.",
+        "advantages": ["Ductwork and system planning designed for the actual layout, not squeezed into leftover space", "Coordination with the project schedule so installation supports the build instead of delaying it", "Comfort planned from day one through airflow layout, equipment placement, and future service access"],
+        "included": "HVAC and ductwork planning, installation coordination, airflow layout, rough-in support, service-access review, and project-focused recommendations."
+      }
+    },
+    "header": {
+      "title": "Service Sections",
+      "subtitle": "Structured blocks for your real services, each with room for image, copy, and CTA."
+    },
+    "cards": [
+      {
+        "title": "Primary Service",
+        "description": "Summarize the main offer and the outcome clients can expect.",
+        "cta": "Request quote"
+      },
+      {
+        "title": "Secondary Service",
+        "description": "Use this card to present a supporting or specialized offer.",
+        "cta": "Request quote"
+      },
+      {
+        "title": "Support Service",
+        "description": "Describe the service that removes objections or extends client value.",
+        "cta": "Request quote"
+      }
+    ]
+  },
+  "financing": {
+    "kicker": "Financing options",
+    "title": "Flexible payment information, separate from service details.",
+    "body": "Some qualifying projects may be eligible for financing from 6 to 24 months with no interest. Because financing does not apply to every service or every scope, CMT presents it as separate information during the estimate conversation.",
+    "note": "Availability may depend on the service type, project total, approval, and current financing terms.",
+    "cta": "Ask about financing",
+    "call_label": "Call",
+    "items": [
+      {
+        "label": "6 to 24 months",
+        "text": "No-interest financing options may be available for qualifying work, helping larger comfort projects fit a monthly budget."
+      },
+      {
+        "label": "Service-specific",
+        "text": "Financing is reviewed separately from the service benefits, so customers understand what qualifies before making a decision."
+      },
+      {
+        "label": "Licensed",
+        "text": "CMT Heating & Cooling operates under Florida HVAC license CAC1822384."
+      },
+      {
+        "label": "Protected",
+        "text": "The company is bonded and insured for added confidence during residential and commercial work."
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "Customer reviews",
+    "title": "What CMT customers are saying.",
+    "subtitle": "Read recent feedback from homeowners and property owners who called CMT Heating & Cooling for comfort, airflow, insulation, and HVAC service.",
+    "iframe_title": "CMT Heating & Cooling customer reviews"
+  },
+  "about": {
+    "title": "About CMT Heating & Cooling",
+  "seo_title": "About CMT's Licensed Tampa Bay HVAC Team",
+    "seo_description": "Learn how CMT Heating & Cooling serves Tampa Bay homes, businesses, and new construction projects.",
+    "description": "CMT Heating & Cooling provides professional residential and commercial HVAC service throughout Tampa Bay, from diagnosis and repair to ductwork, insulation, and new construction.",
+    "mission": {
+      "title": "Our mission",
+      "text": "Our mission is to make indoor comfort more dependable through clear recommendations, careful workmanship, and HVAC solutions that fit each property."
+    },
+    "vision": {
+      "title": "Our approach",
+      "text": "From the first call to the finished job, CMT focuses on practical planning, respectful service, and a clean handoff so customers understand what was done and what comes next."
+    },
+    "values": {
+      "title": "Core Values",
+      "items": [
+        {
+          "name": "Licensed service",
+          "description": "Florida HVAC license CAC1822384 and service built around professional standards."
+        },
+        {
+          "name": "Complete solutions",
+          "description": "AC, ductwork, Rotobrush cleaning, insulation, commercial HVAC, and new construction support."
+        },
+        {
+          "name": "Local coverage",
+          "description": "Serving Tampa Bay communities including Tampa, Brandon, Clearwater, Riverview, St. Petersburg, and Wesley Chapel."
+        }
+      ]
+    },
+    "facts": {
+      "title": "CMT at a glance",
+      "items": [
+        { "label": "License", "value": "Florida CAC1822384" },
+        { "label": "Service area", "value": "Tampa Bay and surrounding communities" },
+        { "label": "Work types", "value": "Residential, commercial, and new construction" },
+        { "label": "Financing", "value": "6 to 24 months with no interest available" },
+        { "label": "Protection", "value": "Bonded and insured" }
+      ]
+    },
+    "service_process": {
+      "title": "What customers can expect",
+      "items": [
+        { "title": "Start with the real issue", "text": "We listen to the comfort problem, inspect the system, and explain the practical options." },
+        { "title": "Plan the right scope", "text": "Repair, replacement, airflow, insulation, and installation recommendations are matched to the property." },
+        { "title": "Finish with confidence", "text": "You get clear communication, careful work, and a straightforward next step for ongoing comfort." }
+      ]
+    },
+    "badges": { "licensed": "License CAC1822384", "coverage": "Residential + commercial", "insured": "Bonded and insured" },
+    "call_label": "Call",
+    "final_title": "Ready to talk comfort?",
+    "final_text": "CMT serves Tampa Bay and surrounding communities with service calls, estimates, replacement planning, HVAC installation, and financing options from 6 to 24 months with no interest."
+    
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+  "seo_title": "Tampa Bay HVAC FAQs | CMT Heating & Cooling Services Guide",
+    "seo_description": "Answers about AC repair, ductwork, duct cleaning, insulation, and HVAC service in Tampa Bay.",
+    "subtitle": "Straight answers about CMT's HVAC, ductwork, insulation, and indoor air services.",
+    "items": [
+      {
+        "question": "Can CMT help me decide between AC repair and replacement?",
+        "answer": "Yes. CMT can inspect the system, explain what is causing the comfort problem, and walk you through repair options or replacement planning when the equipment is older, inefficient, or no longer keeping up."
+      },
+      {
+        "question": "When should ductwork be repaired or replaced?",
+        "answer": "Ductwork should be checked when rooms feel uneven, airflow is weak, energy bills rise, or ducts are damaged, leaking, disconnected, or poorly routed. CMT can help with new duct systems, replacements, modifications, sealing, and airflow improvements."
+      },
+      {
+        "question": "What are the benefits of Rotobrush duct cleaning?",
+        "answer": "Rotobrush duct cleaning helps remove dust, debris, and buildup inside supply and return ducts. It can support cleaner indoor air, reduce dust circulation, and is especially useful after renovation work, heavy dust, or odor issues."
+      },
+      {
+        "question": "How do insulation and ductwork affect HVAC performance?",
+        "answer": "Blown-in attic insulation helps reduce heat transfer, while well-planned ductwork helps conditioned air reach each room more evenly. Together, they can improve comfort, reduce strain on the HVAC system, and help lower energy consumption."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+  "seo_title": "Contact CMT for Tampa Bay HVAC Service",
+    "seo_description": "Contact CMT Heating & Cooling for HVAC service, estimates, and comfort solutions in Tampa Bay.",
+    "subtitle": "Keep this page focused on one clear next step: call, write, or send a short enquiry.",
+    "info": {
+      "title": "Contact Information",
+      "location_title": "Service Area",
+      "contact_title": "Phone",
+      "email_title": "Email",
+      "hours_title": "Business Hours",
+      "map_title": "CMT Heating & Cooling Google Map",
+      "map_placeholder_title": "Map or coverage module",
+      "map_placeholder_text": "Embed your Google Map, service radius, showroom address, or another location proof in this space.",
+      "location": "Tampa Bay and surrounding communities",
+      "phone": "(813) 345-7663",
+      "email": "Call or text for service",
+      "hours": "Call or text for service and estimates",
+      "languages": "English, Spanish"
+    },
+    "form": {
+      "heading": "Send a Message",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phone_placeholder": "Enter your phone number",
+      "service": "Service",
+      "service_placeholder": "Select a service",
+      "service_info": "General Enquiry",
+      "service_other": "Other",
+      "message": "Message",
+      "message_placeholder": "Tell us what you need help with",
+      "submit": "Send Message",
+      "sending": "Opening email draft...",
+      "success": "Your email draft was prepared successfully.",
+      "error": "We could not open your email draft. Please try again."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+  "seo_title": "Privacy Policy for CMT Heating & Cooling Website Visitors",
+    "seo_description": "Privacy policy for CMT Heating & Cooling website visitors and service inquiries.",
+    "intro": "This privacy policy explains how {{name}} may collect, use, store, and protect information shared through this website.",
+    "sections": {
+      "collection": {
+        "title": "Information We Collect",
+        "body": "We may collect information that visitors choose to submit, such as names, phone numbers, email addresses, service details, and message content. Basic technical information such as browser data or device type may also be collected automatically when needed for website operation and security."
+      },
+      "usage": {
+        "title": "How We Use Information",
+        "body": "Information may be used to respond to enquiries, provide quotes, coordinate services, improve website functionality, maintain security, and follow up on legitimate business requests."
+      },
+      "sharing": {
+        "title": "Third-Party Services",
+        "body": "Information may be processed by trusted third-party providers that support hosting, email delivery, form handling, security, or other core website operations. Data is shared only when reasonably necessary for those functions."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "This template is designed around necessary cookies only. Those cookies may be used to remember essential website preferences such as accessibility settings or cookie acknowledgement. If optional analytics, advertising, or personalization tools are added later, this policy should be updated before publication."
+      },
+      "contact": {
+        "title": "Privacy Questions",
+        "body": "If you have questions about privacy or data handling, please contact us at {{email}}."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+  "seo_title": "Terms of Service for CMT Heating & Cooling Website Visitors",
+    "seo_description": "Terms of service for using the CMT Heating & Cooling website and inquiry forms.",
+    "intro": "These terms govern the use of the {{name}} website and the submission of enquiries through it.",
+    "sections": {
+      "use": {
+        "title": "Website Use",
+        "body": "The content on this website is provided for general informational purposes and may be updated at any time. Visitors agree to use the website lawfully and not attempt to interfere with its normal operation."
+      },
+      "estimates": {
+        "title": "Enquiries and Quotes",
+        "body": "Submitting a form, sending an email, or making a call does not by itself create a binding service agreement. Pricing, availability, timelines, and scope should be confirmed directly with the business."
+      },
+      "intellectual_property": {
+        "title": "Content and Intellectual Property",
+        "body": "Unless stated otherwise, the website content, branding, text, and visual assets belong to the business or are used with permission. They may not be copied, reused, or redistributed without authorization."
+      },
+      "liability": {
+        "title": "Limitations and Responsibility",
+        "body": "We aim to keep website information accurate and useful, but we do not guarantee that every page, feature, or third-party integration will always be complete, current, or uninterrupted. Use of the website is at the visitor's own discretion."
+      },
+      "contact": {
+        "title": "Questions About These Terms",
+        "body": "For questions about these terms, please contact us at {{email}}."
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Blank template placeholder image</title>
+  <desc id="desc">Neutral blank placeholder for templates that still need real brand imagery.</desc>
+  <rect width="1600" height="900" fill="#f7f4ed" />
+  <rect x="72" y="72" width="1456" height="756" rx="28" fill="#ffffff" stroke="#ddd3c2" stroke-width="6" />
+  <rect x="132" y="132" width="1336" height="636" rx="18" fill="#fbf8f2" />
+  <line x1="132" y1="132" x2="1468" y2="768" stroke="#e9dfcf" stroke-width="4" />
+  <line x1="1468" y1="132" x2="132" y2="768" stroke="#e9dfcf" stroke-width="4" />
+</svg>
